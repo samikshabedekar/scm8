@@ -1,4 +1,4 @@
-<!--- Test the changes in a branch named Akash---->
+<!--- Test the Git branch and merge --- by change in a branch named Akash---->
 
 #include<stdio.h>
 #include<conio.h>
